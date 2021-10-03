@@ -8,21 +8,16 @@
   },
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
-    "discord.js": "^13.0.1",
-    "distube": "^3.0.0-beta.38",
+    "discord.js": "^13.1.0",
+    "distube": "^2.8.18",
     "ffmpeg-static": "^4.4.0",
     "quickmongo": "^3.0.2",
     "ytdl-core": "^4.9.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/djpie123/Buttube.git"
-  },
-  "author": "Pieislive",
+  
+  "author": "KLAE",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/djpie123/Buttube/issues"
-  },
+  
   "keywords": [
     "discord",
     "discord.js",
@@ -33,5 +28,5 @@
     "buttons-music",
     "music-buttons"
   ],
-  "homepage": "https://github.com/djpie123/Buttube#readme"
+  
 }
